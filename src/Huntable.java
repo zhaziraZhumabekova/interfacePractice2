@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Huntable {
+public interface Huntable {
+    void hunt();
 }
